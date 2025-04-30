@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108" height="108" viewBox="0 0 108 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Microphone Icon -->
+  <path d="M54 68C58.4183 68 62 64.4183 62 60V36C62 31.5817 58.4183 28 54 28C49.5817 28 46 31.5817 46 36V60C46 64.4183 49.5817 68 54 68Z" fill="#6C63FF"/>
+  <path d="M54 72C60.6274 72 66 66.6274 66 60H42C42 66.6274 47.3726 72 54 72Z" fill="#6C63FF"/>
+  <path d="M54 76C62.2843 76 69 69.2843 69 61H39C39 69.2843 45.7157 76 54 76Z" fill="#6C63FF"/>
+  
+  <!-- Sound Waves -->
+  <path d="M34 54C34 47.3726 39.3726 42 46 42" stroke="#6C63FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M74 54C74 47.3726 68.6274 42 62 42" stroke="#6C63FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M30 54C30 44.0589 38.0589 36 48 36" stroke="#6C63FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M78 54C78 44.0589 69.9411 36 60 36" stroke="#6C63FF" stroke-width="4" stroke-linecap="round"/>
+</svg> 
